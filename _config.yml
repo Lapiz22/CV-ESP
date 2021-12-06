@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-name: User MacUserino # Your name.
-email: user.userino@example.com # Your email
+name: Tomate Guardián # Your name.
+email: Tomate@Guardian.com # Your email
 
 # Use consideration when using these, publicly available contact information
 # and place of residence is not something you might want to have.
-tagline: Personal cover page for this test user. # Appears on the sidebar bellow your name.
-address: User street 123, 50123 Userville, Userlandia # Your address
-phone: 555-not-a-real-number # Your phone number
-dob: 12.12.2012 # Your date of birth
-image: http://placehold.it/350x350
-title: Awesomeness Expert # Your title eg. Writer, programmer, welder, etc.
+tagline: Ingeniero Perruno. # Appears on the sidebar bellow your name.
+address: Dog street 123, 50123 Dogville, Doglandia # Your address
+phone: +56-9-14875102 # Your phone number
+dob: 01.09.2017 # Your date of birth
+image: https://cdn.heraldodemexico.com.mx/wp-content/uploads/2020/06/17175413/perro-chihuahua-1200x675.jpg #http://placehold.it/350x350
+title: Experto en perritas #Awesomeness Expert # Your title eg. Writer, programmer, welder, etc.
 github_username:  foobarbizbuzhopefullynotrealuser # Your github username
 linkedin_url: https://linkedin.com/profile/sample # Your linkedin public url
 twitter_handle: # Your twitter handle
